@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566819352434",
+    "project_id": "easy-appointment-dc673",
+    "storage_bucket": "easy-appointment-dc673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566819352434:android:211a49a7965ab4dd97f7eb",
+        "android_client_info": {
+          "package_name": "com.playatanu.easyappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566819352434-24mjod3ou2dc96fmqvcpljlct1cfpju4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjJI_ilWI9I92f82LUBYJNCv0PvJwH30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566819352434-24mjod3ou2dc96fmqvcpljlct1cfpju4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
